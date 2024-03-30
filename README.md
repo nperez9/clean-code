@@ -24,3 +24,7 @@ Key pain points:
 This guide will apply to all paradigm of code: Functional, OOP and procedural.
 
 Remember, do the thinking and refactor a lot! Refactor the code today to save you tomorrow.
+
+Naming:
+
+- Names should be meaninfull
