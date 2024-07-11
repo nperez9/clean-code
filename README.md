@@ -1,4 +1,10 @@
-Clean code
+Clean code & Snippets Repostory
+
+Snippets:
+
+A collection of usefull scripts to resolve common problems in the lenguages
+
+Clean Code:
 
 Is code that you can read, not just works = write code which is readabke & easy to understand
 
