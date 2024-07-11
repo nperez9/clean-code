@@ -27,4 +27,6 @@ Remember, do the thinking and refactor a lot! Refactor the code today to save yo
 
 Naming:
 
-- Names should be meaninfull
+- Names should be meaninfull -> meanunfulNames.ts
+- Things should be correctly named based in the functionality (ex: varibles, functions, clasess) -> correclyNaming.ts
+- Should be followed the naming conventions of the proyect/legunage -> nameConvetions.ts
