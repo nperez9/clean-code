@@ -2,7 +2,7 @@ Clean code & Snippets Repostory
 
 Snippets:
 
-A collection of usefull scripts to resolve common problems in the lenguages
+A collection of usefull scripts to resolve common problems in the lenguages i ususally work ons
 
 Clean Code:
 
@@ -36,3 +36,5 @@ Naming:
 - Names should be meaninfull -> meanunfulNames.ts
 - Things should be correctly named based in the functionality (ex: varibles, functions, clasess) -> correclyNaming.ts
 - Should be followed the naming conventions of the proyect/legunage -> nameConvetions.ts
+- Data containers (variables, constants, properties) has to be named depending in the data that this ones contains and represents -> dataContainersNames.ts
+- Functions & methods names should describe an operation -> functionsNames.ts
