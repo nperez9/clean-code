@@ -38,3 +38,4 @@ Naming:
 - Should be followed the naming conventions of the proyect/legunage -> nameConvetions.ts
 - Data containers (variables, constants, properties) has to be named depending in the data that this ones contains and represents -> dataContainersNames.ts
 - Functions & methods names should describe an operation -> functionsNames.ts
+- Classes should be named based on objects and entities that represents -> classesNames.ts
