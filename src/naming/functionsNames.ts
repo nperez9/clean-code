@@ -1,5 +1,6 @@
 /** Functions and methos should have a name that describes the operation that this ones are doing
  * Same as variables, functions name should not be redundant
+ * getters and setters can avoid this rule
  */
 
 // Good examples
@@ -30,3 +31,27 @@ function hasPermission(user): boolean {
 function isValidInput(input): boolean {
   return true;
 }
+
+/**
+ * Getters and setters are an exception to this rule
+ * and can be named as data container. Example
+ */
+class Database {
+  private client: any;
+
+  // Its okey to use nouns
+  get connectedClient() {
+    if (!this.client) {
+      throw new Error('Database not connected!');
+    }
+    return this.client;
+  }
+
+  connect() {
+    // Establishing connection ...
+    this.client = {};
+  }
+}
+
+const db = new Database();
+db.connectedClient.query();

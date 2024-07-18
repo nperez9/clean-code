@@ -4,7 +4,7 @@ Snippets:
 
 A collection of usefull scripts to resolve common problems in the lenguages i ususally work ons
 
-Clean Code:
+Clean Code ft, Academind
 
 Is code that you can read, not just works = write code which is readabke & easy to understand
 
@@ -37,5 +37,7 @@ Naming:
 - Things should be correctly named based in the functionality (ex: varibles, functions, clasess) -> correclyNaming.ts
 - Should be followed the naming conventions of the proyect/legunage -> nameConvetions.ts
 - Data containers (variables, constants, properties) has to be named depending in the data that this ones contains and represents -> dataContainersNames.ts
-- Functions & methods names should describe an operation -> functionsNames.ts
+- Functions & methods names should describe an operation, getters and setters can avoid this rule -> functionsNames.ts
 - Classes should be named based on objects and entities that represents -> classesNames.ts
+
+You can check the documentation of these examples with the Naming things.pdf
