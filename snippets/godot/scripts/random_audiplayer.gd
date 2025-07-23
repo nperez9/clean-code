@@ -1,3 +1,4 @@
+# Renamed file to random_audioplayer.gd for correct spelling
 extends AudioStreamPlayer
 class_name AudioPlayer
 

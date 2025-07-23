@@ -1,3 +1,4 @@
+# Renamed file to disappear_from_top.gdshader for correct spelling
 // this shader will make the texture disappear from the top to the bottom
 shader_type canvas_item;
 

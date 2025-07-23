@@ -2,7 +2,7 @@
  * Classes naming should be refrences to objects or entities
  *
  * The same as functions and variables, sometimes adding a lot of
- * infortmation to the name can make it harder to read and be redundant
+ * information to the name can make it harder to read and be redundant
  */
 
 // Examples

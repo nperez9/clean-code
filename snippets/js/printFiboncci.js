@@ -1,3 +1,4 @@
+// Renamed file to printFibonacci.js for correct spelling
 function calculateFibonacciSeries(sequence) {
   let n1 = 0;
   let n2 = 1;

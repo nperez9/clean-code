@@ -1,3 +1,4 @@
+<!-- Renamed file to EXTENSIONS.MD for correct spelling -->
 Collection of cool plugins for GODOT:
 
 - trail2D -> tail for nodes2D

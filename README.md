@@ -1,4 +1,4 @@
-Clean code & Snippets Repostory
+## clean code & Snippets Repostory
 
 Snippets:
 
@@ -31,13 +31,16 @@ This guide will apply to all paradigm of code: Functional, OOP and procedural.
 
 Remember, do the thinking and refactor a lot! Refactor the code today to save you tomorrow.
 
-Naming:
+## Naming:
 
-- Names should be meaninfull -> meanunfulNames.ts
-- Things should be correctly named based in the functionality (ex: varibles, functions, clasess) -> correclyNaming.ts
-- Should be followed the naming conventions of the proyect/legunage -> nameConvetions.ts
+- Names should be meaningful -> meaningfulNames.ts
+- Things should be correctly named based on the functionality (ex: variables, functions, classes) -> correctlyNaming.ts
+- Should follow the naming conventions of the project/language -> nameConventions.ts
 - Data containers (variables, constants, properties) has to be named depending in the data that this ones contains and represents -> dataContainersNames.ts
 - Functions & methods names should describe an operation, getters and setters can avoid this rule -> functionsNames.ts
 - Classes should be named based on objects and entities that represents -> classesNames.ts
 
 You can check the documentation of these examples with the Naming things.pdf
+
+## Structure, format & comments:
+- 
