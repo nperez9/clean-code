@@ -58,8 +58,8 @@ const config: Config = {
     navbar: {
       title: 'Clean Code Handbook',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Code logo',
+        src: 'img/book.png',
       },
       items: [
         {
@@ -79,23 +79,27 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'References',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Scalastic.io',
+              href: 'https://scalastic.io/en/solid-dry-kiss/?ref=clean-code-handbook',
             },
+            {
+              label: 'Refactoring Guru',
+              href: 'https://refactoring.guru/refactoring?ref=clean-code-handbook',
+            }
           ],
         },
         {
-          title: 'Community',
+          title: 'Find me!',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'GitHub',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
+              label: 'LinkedIn',
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
@@ -105,10 +109,10 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Other Projects',
           items: [
             {
-              label: 'Blog',
+              label: 'Stone Tower Studios',
               to: '/blog',
             },
             {
@@ -118,7 +122,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} By Nicolas Agustin Perez.`,
+      copyright: `Copyright © ${new Date().getFullYear()} By Nicolas Agustin Perez. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.synthwave84,

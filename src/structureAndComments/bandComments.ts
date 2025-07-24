@@ -43,7 +43,7 @@ class DatabaseManager {
  * Errors should not be treated as a comments, it should be handled by the code itself
  */
 
-class DatabaseManager {
+class DatabaseManagerFixed {
   private dbEngine: any;
 
   loadDatabaseEngine(engine: string): void {
@@ -172,3 +172,4 @@ function calculateTotalPrice(a: number, b: number) {
  *
  * we should rely in tools like git to keep track of the changes in the codebase, and avoid versioning or keep unnecessary code commented out
  */
+

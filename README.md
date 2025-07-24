@@ -1,14 +1,18 @@
-## clean code & Snippets Repostory
+# Clean code & Snippets Repostory
 
-Snippets:
+## Snippets:
 
-A collection of usefull scripts to resolve common problems in the lenguages i ususally work ons
+A bunch of snippers that i found usefull in the lenguages I usually work on, mostly TS utils functions and Godot Shaders or utilities for my games 
 
-Clean Code ft, Academind
+# Clean Code 
 
-Is code that you can read, not just works = write code which is readabke & easy to understand
+Is code that you can be readed by any developer that works in your proyects, or even yourself in a future not so distant. There is a major diferrence between the code that works and the one you can use to build a larger, sustainable and maintenable proyect.
 
-Keys:
+This guide will apply to all paradigm of code: Functional, OOP and procedural.
+
+Most important, build quiality code is not always clear at frist, to get this concepts is important to refactor a lot! Refactor the code today can save you tomorrow.
+
+## Our code should:
 
 - Should be readable and meaningful
 - Should reduce cognitive load to be understanding
@@ -17,19 +21,17 @@ Keys:
 - Should follow the common best practices and patterns
 - Should avoid unintitive names, complex nesting and big code blocks
 
-Remember, you are the author of your code!
+Remember, you are the author of your code! Try to keep it to your reputation
 
-Key pain points:
+## Key pain points:
 
 - Naming
 - Structure and comments
 - Functions: Length and Paramaters
 - Conditionals and Error handling
 - Classes and Data sctructures
+- Common programming principles
 
-This guide will apply to all paradigm of code: Functional, OOP and procedural.
-
-Remember, do the thinking and refactor a lot! Refactor the code today to save you tomorrow.
 
 ## Naming:
 
@@ -43,4 +45,4 @@ Remember, do the thinking and refactor a lot! Refactor the code today to save yo
 You can check the documentation of these examples with the Naming things.pdf
 
 ## Structure, format & comments:
-- 
+- Bad
