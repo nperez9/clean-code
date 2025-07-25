@@ -2,46 +2,40 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Clean Code 
 
-## Getting Started
+## What is clean code?
 
-Get started by **creating a new site**.
+Is code that you can be readed by any developer that works in your proyects, or even yourself in a future not so distant. There is a major diferrence between the code that works and the one you can use to build a larger, sustainable and maintenable proyect.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## In wich cases this guide will appy?
 
-### What you'll need
+This guide will apply to all paradigm of code: Functional, OOP and procedural, also, even if it's written in TS, the principles of the practies can be applied to any lenguage
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## How to get better at writing more readable code?
 
-## Generate a new site
+Most important, build quiality code is not always clear at frist, to get this concepts is important to refactor a lot! Refactor the code today can save you tomorrow.
 
-Generate a new Docusaurus site using the **classic template**.
+## Our code should:
 
-The classic template will automatically be added to your project after you run the command:
+- Should be readable and meaningful
+- Should reduce cognitive load to be understanding
+- Should be concise and go "to the point"
+- Should be easy to write and to maintain
+- Should follow the common best practices and patterns
+- Should avoid unintitive names, complex nesting and big code blocks
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Remember, you are the author of your code! Try to keep it to your reputation
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## We are going to review the follow the items:
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Naming
+- Structure and comments
+- Functions: Length and Paramaters
+- Conditionals and Error handling
+- Classes and Data sctructures
+- Common programming principles
+- Git flow
+- Versions

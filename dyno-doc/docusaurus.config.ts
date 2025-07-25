@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Clean Code Handbook',
-  tagline: 'Lovely start-up handbook to guide you through the write code for humans.',
+  tagline: 'A lovely start-up handbook to help you write code for humans.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

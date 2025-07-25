@@ -13,7 +13,6 @@ This guide will apply to all paradigm of code: Functional, OOP and procedural.
 Most important, build quiality code is not always clear at frist, to get this concepts is important to refactor a lot! Refactor the code today can save you tomorrow.
 
 ## Our code should:
-
 - Should be readable and meaningful
 - Should reduce cognitive load to be understanding
 - Should be concise and go "to the point"
@@ -23,7 +22,7 @@ Most important, build quiality code is not always clear at frist, to get this co
 
 Remember, you are the author of your code! Try to keep it to your reputation
 
-## Key pain points:
+## Key points:
 
 - Naming
 - Structure and comments
@@ -35,7 +34,7 @@ Remember, you are the author of your code! Try to keep it to your reputation
 - Versions
 
 
-## Naming:
+## Naming (/naming):
 
 - Names should be meaningful -> meaningfulNames.ts
 - Things should be correctly named based on the functionality (ex: variables, functions, classes) -> correctlyNaming.ts
@@ -46,5 +45,7 @@ Remember, you are the author of your code! Try to keep it to your reputation
 
 You can check the documentation of these examples with the Naming things.pdf
 
-## Structure, format & comments:
-- Bad
+## Structure, format & comments: (/structureAndComments):
+
+- Bad Comments -> badComments.ts
+- Good Comments -> goodComments.ts
