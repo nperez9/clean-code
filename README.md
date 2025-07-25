@@ -31,6 +31,8 @@ Remember, you are the author of your code! Try to keep it to your reputation
 - Conditionals and Error handling
 - Classes and Data sctructures
 - Common programming principles
+- Git flow
+- Versions
 
 
 ## Naming:

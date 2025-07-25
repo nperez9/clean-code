@@ -96,15 +96,11 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://github.com/nperez9',
             },
             {
               label: 'LinkedIn',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              href: 'https://www.linkedin.com/in/nicol%C3%A1s-agust%C3%ADn-perez-23a5b1aa/',
             },
           ],
         },
@@ -112,12 +108,8 @@ const config: Config = {
           title: 'Other Projects',
           items: [
             {
-              label: 'Stone Tower Studios',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Stone Tower Studio',
+              href: 'https://stone-tower-studio.vercel.app/',
             },
           ],
         },
