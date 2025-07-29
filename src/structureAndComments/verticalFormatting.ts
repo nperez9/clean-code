@@ -32,7 +32,10 @@
  * 
  * Look how ard to read is this class without any spaces: 
  */
-
+/* eslint-disable no-alert, no-console */
+/* eslint-disable */
+/* tslint:disable */
+/* @ts-nocheck */
 const path = require('path');
 const fs = require('fs');
 class DiskStorage {
